@@ -12,9 +12,13 @@
 
 <br/>
 
-**Screen** <br/>
+**Screen (Login Fail if username, password or both of them are empty or wrong)** <br/>
 
 ![Alt Text](https://media.giphy.com/media/u9YoRkuKzeyBeXyAng/giphy.gif)
+
+**Screen (Login Fail & Succesfull)** <br/>
+
+![Alt Text](https://media.giphy.com/media/k5hTQR2R88a3aTCoD5/giphy.gif)
 
 **Database** <br/>
 ![Alt Text](https://i.hizliresim.com/RcKXYO.jpg)
